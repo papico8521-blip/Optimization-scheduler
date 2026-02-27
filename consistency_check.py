@@ -595,6 +595,5 @@ class Cheker:
 
             return df_all ,res
 
-
 if __name__=="__main__":
     pass
